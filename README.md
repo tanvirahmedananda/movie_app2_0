@@ -17,6 +17,8 @@ The project is developed for **Android** but can be modified for **iOS** or any 
 
 - <img src="./icons/dart.png" width="20"> **Dart** – Primary language used for Flutter development  
 - <img src="./icons/flutter.png" width="20"> **Flutter** – Cross-platform UI framework  
+- <img src="./icons/api.png" width="20"> **TMDB API** – Used to fetch movie and TV show data from The Movie Database (TMDB) 
+- <img src="./icons/flutter.png" width="20"> **MVC** – Architectural pattern used to separate concerns into Model, View, and Controller for better code organization
 - <img src="./icons/sqlite.png" width="20"> **SQLite (sqflite package)** – Local database storage  
 - <img src="./icons/dart.png" width="20"> **Provider** – State management solution  
 
